@@ -84,5 +84,5 @@ Contributions are welcome! If you find any bugs or want to suggest improvements,
 
 ## Author
 
-Abhishek Rajput.
+Arnav Jain.
 
